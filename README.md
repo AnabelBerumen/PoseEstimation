@@ -28,7 +28,7 @@ Soy Ingeniera en sistemas, me gustan los entornos linux, machine learning y la c
 
 
 
-**Estoy disponible para formar un equipo el kaggle**
+**Estoy disponible para formar un equipo en kaggle**
 
 <code><a href="https://www.kaggle.com/anabelberumen/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></a></code>
 
